@@ -1,0 +1,16 @@
+**** 2018-03-17
+
+installed:
+ROS Lunar Loggerhead (desktop-full): http://wiki.ros.org/lunar/Installation/Ubuntu
+git
+
+expected libs:
+-- ROS
+-- OpenCV (inc. w/ ROS)
+-- NI Kinect or similar for Prime Xtion sensor
+-- odroid lib for I/O?
+-- lib for joystick control
+-- TensorFlow
+
+maybe Bazel build remotely so I don't have to install everything locally?
+
